@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavani Ahinsa</h1>
 <h3 align="center">A passionate frontend developer (intern)from Sri Lanka</h3>
 
-
+---
 
 - 🌱 I’m currently learning **Laravel**
 
