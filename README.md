@@ -43,3 +43,9 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pavaniahinsa20&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavaniahinsa20&label=Profile%20views&color=0e75b6&style=flat" alt="pavaniahinsa20" /> </p>
+
+------
+
+
