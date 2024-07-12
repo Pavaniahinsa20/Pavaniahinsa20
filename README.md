@@ -35,15 +35,22 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaniahinsa20&show_icons=true&locale=en&layout=compact" alt="pavaniahinsa20" /></p>
 -
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaniahinsa20 &show_icons=true&theme=dark&locale=en&layout=compact" alt="pavaniahinsa20" /></p>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pavaniahinsa20 &show_icons=true&theme=dark&locale=en" alt="pavaniahinsa20" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br clear="both">
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pavaniahinsa20&theme=dark" alt="pavaniahinsa20" /></p>
+<!-- GitHub Top Languages -->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavaniahinsa20&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" /></p>
+
+<!-- GitHub Stats -->
+<p><img src="https://github-readme-stats.vercel.app/api?username=pavaniahinsa20&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></p>
+
+<!-- GitHub Streak Stats -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pavaniahinsa20&theme=dark" alt="GitHub Streak Stats" /></p>
+
+
+
+ 
 <br><br><br><br><br><br><br><br><br><br>
  
 
