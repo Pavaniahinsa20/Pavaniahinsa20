@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavani Ahinsa</h1>
 <h3 align="center">A passionate frontend developer (intern)from Sri Lanka</h3>
 
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+ 
 ---
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - 🔭 I’m currently working on Laravel Projects
 - 🌱 I’m currently learning **Laravel**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -39,12 +39,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavaniahinsa20_icons=true&theme=dark&locale=en&layout=compact" alt="pavaniahinsa20" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pavaniahinsa 20_icons=true&theme=dark&locale=en" alt="pavaniahinsa20" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
+ 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pavaniahinsa20&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
